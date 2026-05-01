@@ -22,7 +22,7 @@ The result: a chess bot capable of searching **millions of positions per second*
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/stoopid-chess-bot.git
+git clone https://github.com/DevanshuTripathi/stoopid-chess-bot.git
 cd stoopid-chess-bot
 pip install -r requirements.txt
 ```
